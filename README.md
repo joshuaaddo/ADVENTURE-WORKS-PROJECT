@@ -125,4 +125,4 @@ Pivot Table                |               Chart
   - Most customers purchase because of the price. To attract price-sensitive customers, the company should continue to focus on competitive pricing strategies like price matching and discount programs.
  
 ## Recommendations
-For a deep dive into the analytics, the datasets of January-June 2001 and August-December 2004 will be required for comparison and data-driven decision-making.
+For a deep dive into the analytics, the January-June 2001 and August-December 2004 datasets will be required for comparison and data-driven decision-making.
